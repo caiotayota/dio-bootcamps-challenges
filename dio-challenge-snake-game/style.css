@@ -1,0 +1,16 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(27, 28, 56);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body footer {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(27, 28, 56);
+}
